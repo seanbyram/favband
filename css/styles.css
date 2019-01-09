@@ -1,8 +1,12 @@
 .sidebar {
-  color: purple;
+  color: white;
   font-size: 30px;
   float: left;
   width: 300px;
+  border: 10px solid green;
+  padding: 5px;
+  margin: 20px;
+  background-color: blue;
 }
 
 .cardi {
