@@ -1,0 +1,15 @@
+.sidebar {
+  color: purple;
+  font-size: 30px;
+  float: left;
+  width: 300px;
+}
+
+.cardi {
+  float: right;
+}
+
+.bright {
+  color: orange;
+  text-size: 100px;
+}
