@@ -2,7 +2,7 @@
 
 #### _A project to practice HTML and CSS, 1/8/2019_
 
-#### By _**Sean Byram & Dino **_
+#### By _**Sean Byram & Dino Nguyen**_
 
 ## Setup/Installation Requirements
 
